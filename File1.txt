@@ -1,8 +1,15 @@
 hi my first line
 
 
+<<<<<<< HEAD
 
 358000
 **
 mg
 jkbgc
+=======
+add new line for test\
+
+
+*******
+>>>>>>> main
