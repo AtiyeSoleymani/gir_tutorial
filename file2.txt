@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 2
 
 responsi
+=======
+helloooo hony
+>>>>>>> responsive
